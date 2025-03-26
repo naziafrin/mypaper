@@ -13,6 +13,7 @@ explaining the figures
 discussing everything
 
 ## Materials & Methods
+describing the methods
 
 ## Acknowledgements
 
