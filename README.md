@@ -18,3 +18,6 @@ describing the methods
 ## Acknowledgements
 
 ## References
+. ref 1
+. ref 2
+etc
