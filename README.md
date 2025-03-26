@@ -1,4 +1,4 @@
-# mypaper
+# Proper title
 
 ## Abstract
 overview/summary of the paper
