@@ -20,4 +20,5 @@ describing the methods
 ## References
 . ref 1
 . ref 2
-etc
+. ref 3
+. ref 4
